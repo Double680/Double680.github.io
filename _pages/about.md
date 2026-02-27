@@ -7,63 +7,45 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/), [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/), University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
+I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intelligence, School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
 
 ## Research Interest
 
-- Structured Data Mining (e.g., LLM/Agent-based Table Reasoning)
-- Multimodal Generation & Understanding (e.g., Instruction-guided Image Editing, MLLM Hallucination Mitigation)
-- Transfer Learning (e.g., Cross-domain Recommendation)
+- Structured Data Mining (*e.g.*, LLM/Agent-based Table Reasoning)
+- Multimodal Generation & Understanding (*e.g.*, Instruction-guided Image Editing, MLLM Hallucination Mitigation)
+- Transfer Learning (*e.g.*, Cross-domain Recommendation)
 
 ## Educations
 
-- *September 2021 – Present*, Ph.D. Student. <br>
-State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
-
-- *September 2017 - June 2021*, B.E. in Statistics. <br>
-School of the Gifted Young, University of Science and Technology of China.
+- *September 2021 – Present*, **Ph.D. Student**, State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
+- *September 2017 - June 2021*, B.E. in Statistics., School of the Gifted Young, University of Science and Technology of China.
 
 ## Publications
 
-**First-author Publications**
+**First-author & Co-first-author Publications**
 
-- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. VAREdit: Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [Paper](https://openreview.net/forum?id=elztN9Y4qw)
-
-- **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *SIGIR*, 2024: 2352-2356. [Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)
-
-- **Qingyang Mao**, Zhi Li, Qi Liu, Likang Wu, Hefu Zhang, Enhong Chen. Promoting Machine Abilities of Discovering and Utilizing Knowledge in a Unified Zero-shot Learning Paradigm. *ACM TKDD*, 2024, 19(1): 1-26. [Paper](https://dl.acm.org/doi/full/10.1145/3700444)
-
-- **Qingyang Mao**, Qi Liu, Zhi Li, Mingyue Cheng, Zheng Zhang, Rui Li. PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables. arXiv preprint arXiv:2412.04272, 2024. [Paper](https://arxiv.org/abs/2412.04272)
-
-**Co-first-author Publications**
-
+- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. VAREdit: Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [[Paper](https://openreview.net/forum?id=elztN9Y4qw)] [[Code](https://github.com/HiDream-ai/VAREdit)]
+- **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *SIGIR*, 2024: 2352-2356. [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)] [[Code](https://github.com/Double680/CrossAug)]
+- **Qingyang Mao**, Zhi Li, Qi Liu, Likang Wu, Hefu Zhang, Enhong Chen. Promoting Machine Abilities of Discovering and Utilizing Knowledge in a Unified Zero-shot Learning Paradigm. *ACM TKDD*, 2024, 19(1): 1-26. [[Paper](https://dl.acm.org/doi/full/10.1145/3700444)] [[Code](https://github.com/Double680/CoLa)]
+- **Qingyang Mao**, Qi Liu, Zhi Li, Mingyue Cheng, Zheng Zhang, Rui Li. PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables. arXiv preprint arXiv:2412.04272, 2024. [[Paper](https://arxiv.org/abs/2412.04272)] [[Code](https://github.com/USTCAGI/Awesome-LLM-Table-Mining)]
 - Mingyue Cheng, **Qingyang Mao** *(co-first author)*, Qi Liu, Yitong Zhou, Yupeng Li, Jiahao Wang, Jiaying Lin, Jiawei Cao, Enhong Chen. A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects. TechRxiv preprints, 2025. [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174352282.22844759)
 
 **Co-author Publications**
 
-- Yupeng Li, Mingyue Cheng, Yucong Luo, Yitong Zhou, **Qingyang Mao**, Shijin Wang. BLADE: A Behavior-Level Data Augmentation Framework with Dual Fusion Modeling for Multi-Behavior Sequential Recommendation. In *AAAI*, 2026, accepted. [Paper](https://arxiv.org/abs/2512.12964)
-
-- Chuang Jiang, Mingyue Cheng, Xiaoyu Tao, **Qingyang Mao**, Jie Ouyang, Qi Liu. TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning. In *WSDM*, 2026: 260–270. [Paper](https://dl.acm.org/doi/abs/10.1145/3773966.3777932)
-
-- Jiahao Wang, Mingyue Cheng, **Qingyang Mao**, Yitong Zhou, Daoyu Wang, Qi Liu, Feiyang Xu, Xin Li. TableTime: Reformulating Time Series Classification as Training-Free Table Understanding with Large Language Models. In *CIKM*, 2025: 3009–3019. [Paper](https://dl.acm.org/doi/10.1145/3746252.3761056)
-
-- Mingfan Pan, **Qingyang Mao**, Xu An, Jianhui Ma, Gang Zhou, Mingyue Cheng, Enhong Chen. Tag-augmented Dual-target Cross-domain Recommendation. In *RecSys*, 2025: 451-460. [Paper](https://dl.acm.org/doi/full/10.1145/3705328.3748067)
-
-- Yitong Zhou, Mingyue Cheng, **Qingyang Mao**, Jiahao Wang, Feiyang Xu, Xin Li. Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner. In *IJCAI*, 2025: 2503-2511. [Paper](https://www.ijcai.org/proceedings/2025/279)
-
-- Guanhao Zhao, Zhenya Huang, Cheng Cheng, Yan Zhuang, **Qingyang Mao**, Xin Li, Shijin Wang, Enhong Chen. Multi-Perspective Consolidation Enhanced Cognitive Diagnosis via Conditional Diffusion Model. In *AAAI*, 2025, 39(1): 1174-1182.
-
-- Zheng Zhang, Wei Song, Qi Liu, **Qingyang Mao**, Yiyan Wang, Weibo Gao, Zhenya Huang, Shijin Wang, Enhong Chen. Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation. In *NeurIPS*, 2024, 37: 47767-47789. [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5564f3974ad0e49778dfdcee8e5dc385-Abstract-Conference.html)
-
-- Zheng Zhang, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, **Qingyang Mao**. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling. In *WWW*, 2024: 3241-3252. [Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645369)
-
-- Zirui Hu, Zheng Zhang, Qi Liu, Haoyang Bi, Zhenya Huang, **Qingyang Mao**, Weibo Gao, Wenjun Feng. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework. In *DASFAA*, 2024: 139-155. [Paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_9)
+- Yupeng Li, Mingyue Cheng, Yucong Luo, Yitong Zhou, **Qingyang Mao**, Shijin Wang. BLADE: A Behavior-Level Data Augmentation Framework with Dual Fusion Modeling for Multi-Behavior Sequential Recommendation. In *AAAI*, 2026, accepted. [[Paper](https://arxiv.org/abs/2512.12964)]
+- Chuang Jiang, Mingyue Cheng, Xiaoyu Tao, **Qingyang Mao**, Jie Ouyang, Qi Liu. TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning. In *WSDM*, 2026: 260–270. [[Paper](https://dl.acm.org/doi/abs/10.1145/3773966.3777932)]
+- Jiahao Wang, Mingyue Cheng, **Qingyang Mao**, Yitong Zhou, Daoyu Wang, Qi Liu, Feiyang Xu, Xin Li. TableTime: Reformulating Time Series Classification as Training-Free Table Understanding with Large Language Models. In *CIKM*, 2025: 3009–3019. [[Paper](https://dl.acm.org/doi/10.1145/3746252.3761056)]
+- Mingfan Pan, **Qingyang Mao**, Xu An, Jianhui Ma, Gang Zhou, Mingyue Cheng, Enhong Chen. Tag-augmented Dual-target Cross-domain Recommendation. In *RecSys*, 2025: 451-460. [[Paper](https://dl.acm.org/doi/full/10.1145/3705328.3748067)]
+- Yitong Zhou, Mingyue Cheng, **Qingyang Mao**, Jiahao Wang, Feiyang Xu, Xin Li. Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner. In *IJCAI*, 2025: 2503-2511. [[Paper](https://www.ijcai.org/proceedings/2025/279)]
+- Guanhao Zhao, Zhenya Huang, Cheng Cheng, Yan Zhuang, **Qingyang Mao**, Xin Li, Shijin Wang, Enhong Chen. Multi-Perspective Consolidation Enhanced Cognitive Diagnosis via Conditional Diffusion Model. In *AAAI*, 2025, 39(1): 1174-1182. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32105)]
+- Zheng Zhang, Wei Song, Qi Liu, **Qingyang Mao**, Yiyan Wang, Weibo Gao, Zhenya Huang, Shijin Wang, Enhong Chen. Towards Accurate and Fair Cognitive Diagnosis via Monotonic Data Augmentation. In *NeurIPS*, 2024, 37: 47767-47789. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5564f3974ad0e49778dfdcee8e5dc385-Abstract-Conference.html)]
+- Zheng Zhang, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, **Qingyang Mao**. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling. In *WWW*, 2024: 3241-3252. [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645369)]
+- Zirui Hu, Zheng Zhang, Qi Liu, Haoyang Bi, Zhenya Huang, **Qingyang Mao**, Weibo Gao, Wenjun Feng. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework. In *DASFAA*, 2024: 139-155. [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_9)]
 
 ## Internships
 
 - *March 2025 – December 2025*, Research Intern, HiDream.ai. <br>
   Research on instruction-guided image editing and multimodal LLM hallucination mitigation. 
-
 - *July 2020 - June 2021*, Research Intern, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
   Project collaboration on an AI-assisted paper reading application. 
 
@@ -72,24 +54,17 @@ School of the Gifted Young, University of Science and Technology of China.
 **Projects**
 
 - *January 2024 – October 2024*, Student Leader, USTC Eagle Innovation and Entrepreneurship Fund 2023<br>
-Exploring intelligent assistance in surgical anesthesia. Supervisor: Mingyue Cheng. [Info](https://www.ustc.edu.cn/info/1364/22284.htm)
-
+Exploring intelligent assistance in surgical anesthesia. Supervisor: Mingyue Cheng. [[Info](https://www.ustc.edu.cn/info/1364/22284.htm)]
 - *September 2021 – June 2024*, Backend Developer, CODIA Project Group, State Key Laboratory of Cognitive Intelligence<br>
-Responsible for backend interface (involving GraphQL, TypeScript), external service module (involving gRPC with Python), service development (involving Docker) for an intelligent online programming platform. [Info](https://code.bdaa.pro/)
+Responsible for backend interface (involving GraphQL, TypeScript), external service module (involving gRPC with Python), service development (involving Docker) for an intelligent online programming platform. [[Info](https://code.bdaa.pro/)]
 
 **USTC Teaching Assistant**
 
 - *March 2026 – June 2026*, USTC undergraduate course "Analysis and Practice of the Data" in 2026 spring semester, USTC. 
-
 - *March 2025 – June 2025*, USTC undergraduate course "Analysis and Practice of the Data" in 2025 spring semester, USTC. 
-
 - *March 2024 – June 2024*, USTC undergraduate course "Analysis and Practice of the Data" in 2024 spring semester, USTC. 
 
 ## Honors & Awards
 
-- **Silver Award**, China International College Students' Innovation Competition 2023 *(Dec. 2023)*<br>
-  Entry: Intelligent Surgical Anesthesia
-- **Championship**, iFLYTEK Starfire Cup 2023 *(Oct. 2023)*<br>
-  Entry: Code-intelligent Teaching Assistant
-- **Gold Award**, The 9th Anhui College Students' "Internet+" Competition *(July 2023)*<br>
-  Entry: Intelligent Surgical Anesthesia
+- *December 2023*, Silver Award, China International College Students' Innovation Competition 2023. Entry: Intelligent Surgical Anesthesia.
+- July 2023, Gold Award, The 9th Anhui College Students' "Internet+" Competition. Entry: Intelligent Surgical Anesthesia.
