@@ -23,9 +23,9 @@ repository               : "Double680/Double680.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Qingyang Mao (毛清扬)"
+  name             : "Qingyang Mao"
   pronouns         : # example: "she/her"
-  bio              : "Master & PhD Student at USTC. Research: Scientific & EHR Table Mining, Cross-domain Transfer Learning."
+  bio              :
   location         : "Hefei, China"
   employer         : "USTC"
   uri              : # URL
