@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Qingyang Mao"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Qingyang Mao"
 description              : &description "Qingyang Mao's academic portfolio - PhD student at USTC"
