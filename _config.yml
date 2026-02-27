@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Qingyang Mao"
-  pronouns         : # example: "she/her"
-  bio              :
-  location         : "Hefei, China"
+  pronouns         : 
+  bio              : "Ph.D. student"
+  location         : "Hefei, Anhui, China"
   employer         : "USTC"
   uri              : # URL
   email            : "maoqy0503@mail.ustc.edu.cn"
