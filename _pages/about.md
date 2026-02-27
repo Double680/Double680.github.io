@@ -55,8 +55,8 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 - *January 2024 – October 2024*, Student Leader, USTC Eagle Innovation and Entrepreneurship Fund 2023 [[WEBSITE](https://www.ustc.edu.cn/info/1364/22284.htm)]<br>
 Exploring intelligent assistance in surgical anesthesia. 
-- *September 2021 – June 2024*, Backend Developer, CODIA Project Group, State Key Laboratory of Cognitive Intelligence [[WEBSITE](https://code.bdaa.pro/)]<br>
-Responsible for backend interface (involving GraphQL, TypeScript), external service module (involving gRPC with Python), service development (involving Docker) for an intelligent online programming platform. 
+- *September 2021 – June 2024*, Backend Developer, CODIA Project Group [[WEBSITE](https://code.bdaa.pro/)]<br>
+Responsible for service development of backend interface (involving GraphQL, TypeScript) and external service module (involving gRPC with Python) & production deployment (involving Docker). 
 
 **USTC Teaching Assistant**
 
