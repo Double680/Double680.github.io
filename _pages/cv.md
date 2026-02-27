@@ -13,18 +13,18 @@ Education
 ======
 * **Master & Ph.D. Student** (Supervisor: Prof. Qi Liu)
   * State Key Laboratory of Cognitive Intelligence, USTC
-  * Sept. 2021 – Present &nbsp;|&nbsp; GPA: 3.62/4.30
+  * Sept. 2021 – Present
 
 * **Bachelor in Statistics**
   * School of the Gifted Young, USTC
-  * Sept. 2017 – July 2021 &nbsp;|&nbsp; GPA: 3.76/4.30 (Top 20%)
+  * Sept. 2017 – July 2021
 
 Research Interests
 ======
-* Scientific & EHR Table Mining
-* Cross-domain Transfer Learning
-* Zero-shot Learning
-* Cognitive Diagnosis & Educational Data Mining
+* Structured Data Mining
+* Multimodal Generation and Understanding
+* Large Language Models
+* Knowledge Transfer & Cross-domain Learning
 
 Publications
 ======
@@ -34,6 +34,10 @@ Publications
 
 Experience
 ======
+* **Research Intern**, HiDream.ai
+  * Mar. 2025 – Dec. 2025
+  * Research on multimodal generation and image editing.
+
 * **USTC Eagle Innovation and Entrepreneurship Fund 2023** (Student Leader)
   * Jan. 2024 – Oct. 2024
   * Exploring intelligent assistance in surgical anesthesia.
@@ -59,7 +63,7 @@ Skills
 ======
 * **Programming:** Python, TypeScript, GraphQL, gRPC
 * **Frameworks:** PyTorch, LLM APIs, Jekyll
-* **Research Areas:** Table Reasoning, Recommendation Systems, Fairness in ML, Knowledge Graphs
+* **Research Areas:** Table Reasoning, Multimodal Generation, Recommendation Systems, Knowledge Graphs
 
 Honors & Awards
 ======
