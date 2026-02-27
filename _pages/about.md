@@ -9,26 +9,26 @@ redirect_from:
 
 I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intelligence, School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
 
-## Research Interest
+## <i class="fas fa-atom"></i> Research Interest
 
 - Structured Data Mining (*e.g.*, LLM/Agent-based Table Reasoning)
 - Multimodal Generation & Understanding (*e.g.*, Instruction-guided Image Editing, MLLM Hallucination Mitigation)
 - Transfer Learning (*e.g.*, Cross-domain Recommendation)
 
-## Educations
+## <i class="fas fa-graduation-cap"></i> Educations
 
-- *September 2021 – Present*, **Ph.D. Student**, State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
-- *September 2017 - June 2021*, B.E. in Statistics., School of the Gifted Young, University of Science and Technology of China.
+- *September 2021 – Present*, **Ph.D. Student** (Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/)), State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China.
+- *September 2017 - June 2021*, **B.E. in Statistics**, School of the Gifted Young, University of Science and Technology of China.
 
-## Publications
+## <i class="fas fa-file-alt"></i> Publications
 
 **First-author & Co-first-author Publications**
 
-- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. VAREdit: Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [[PAPER](https://openreview.net/forum?id=elztN9Y4qw)] [[Code](https://github.com/HiDream-ai/VAREdit)]
-- **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *SIGIR*, 2024: 2352-2356. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)] [[Code](https://github.com/Double680/CrossAug)]
-- **Qingyang Mao**, Zhi Li, Qi Liu, Likang Wu, Hefu Zhang, Enhong Chen. Promoting Machine Abilities of Discovering and Utilizing Knowledge in a Unified Zero-shot Learning Paradigm. *ACM TKDD*, 2024, 19(1): 1-26. [[PAPER](https://dl.acm.org/doi/full/10.1145/3700444)] [[Code](https://github.com/Double680/CoLa)]
+- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. VAREdit: Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [[PAPER](https://openreview.net/forum?id=elztN9Y4qw)] [[CODE](https://github.com/HiDream-ai/VAREdit)]
 - **Qingyang Mao**, Qi Liu, Zhi Li, Mingyue Cheng, Zheng Zhang, Rui Li. PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables. arXiv preprint arXiv:2412.04272, 2024. [[PAPER](https://arxiv.org/abs/2412.04272)] [[CODE](https://github.com/Double680/PoTable)]
-- Mingyue Cheng, **Qingyang Mao** *(co-first author)*, Qi Liu, Yitong Zhou, Yupeng Li, Jiahao Wang, Jiaying Lin, Jiawei Cao, Enhong Chen. A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects. TechRxiv preprints, 2025. [PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174352282.22844759) [[Code](https://github.com/USTCAGI/Awesome-LLM-Table-Mining)]
+- **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *SIGIR*, 2024: 2352-2356. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)] [[CODE](https://github.com/Double680/CrossAug)]
+- **Qingyang Mao**, Zhi Li, Qi Liu, Likang Wu, Hefu Zhang, Enhong Chen. Promoting Machine Abilities of Discovering and Utilizing Knowledge in a Unified Zero-shot Learning Paradigm. *ACM TKDD*, 2024, 19(1): 1-26. [[PAPER](https://dl.acm.org/doi/full/10.1145/3700444)] [[CODE](https://github.com/Double680/CoLa)]
+- Mingyue Cheng, **Qingyang Mao** *(co-first author)*, Qi Liu, Yitong Zhou, Yupeng Li, Jiahao Wang, Jiaying Lin, Jiawei Cao, Enhong Chen. A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects. TechRxiv preprints, 2025. [[PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174352282.22844759)] [[CODE](https://github.com/USTCAGI/Awesome-LLM-Table-Mining)]
 
 **Co-author Publications**
 
@@ -42,14 +42,14 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 - Zheng Zhang, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, **Qingyang Mao**. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling. In *WWW*, 2024: 3241-3252. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3589334.3645369)]
 - Zirui Hu, Zheng Zhang, Qi Liu, Haoyang Bi, Zhenya Huang, **Qingyang Mao**, Weibo Gao, Wenjun Feng. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework. In *DASFAA*, 2024: 139-155. [[PAPER](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_9)]
 
-## Internships
+## <i class="fas fa-building"></i> Internships
 
 - *March 2025 – December 2025*, Research Intern, HiDream.ai. <br>
-  Research on instruction-guided image editing and multimodal LLM hallucination mitigation. 
+  Research on instruction-guided image editing and multimodal LLM hallucination mitigation.
 - *July 2020 - June 2021*, Research Intern, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
-  Project collaboration on an AI-assisted paper reading application. 
+  Project collaboration on an AI-assisted paper reading application.
 
-## Experiences 
+## <i class="fas fa-briefcase"></i> Experiences
 
 **Projects**
 
@@ -60,11 +60,11 @@ Responsible for backend interface (involving GraphQL, TypeScript), external serv
 
 **USTC Teaching Assistant**
 
-- *March 2026 – June 2026*, USTC undergraduate course "Analysis and Practice of the Data" in 2026 spring semester, USTC. 
-- *March 2025 – June 2025*, USTC undergraduate course "Analysis and Practice of the Data" in 2025 spring semester, USTC. 
-- *March 2024 – June 2024*, USTC undergraduate course "Analysis and Practice of the Data" in 2024 spring semester, USTC. 
+- *March 2026 – June 2026*, USTC undergraduate course "Analysis and Practice of the Data" in 2026 spring semester, USTC.
+- *March 2025 – June 2025*, USTC undergraduate course "Analysis and Practice of the Data" in 2025 spring semester, USTC.
+- *March 2024 – June 2024*, USTC undergraduate course "Analysis and Practice of the Data" in 2024 spring semester, USTC.
 
-## Honors & Awards
+## <i class="fas fa-award"></i> Honors & Awards
 
 - *December 2023*, Silver Award, China International College Students' Innovation Competition 2023. Entry: Intelligent Surgical Anesthesia.
-- July 2023, Gold Award, The 9th Anhui College Students' "Internet+" Competition. Entry: Intelligent Surgical Anesthesia.
+- *July 2023*, Gold Award, The 9th Anhui College Students' "Internet+" Competition. Entry: Intelligent Surgical Anesthesia.
