@@ -46,7 +46,7 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 - *March 2025 – December 2025*, Research Intern, HiDream.ai. <br>
   Research on instruction-guided image editing and multimodal LLM hallucination mitigation.
-- *July 2020 - June 2021*, Research Intern, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
+- *July 2020 - June 2021*, Research Intern, ARD Incubation Group, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
   Project collaboration on an AI-assisted paper reading application.
 
 ## <i class="fas fa-briefcase"></i>&nbsp; Experiences
