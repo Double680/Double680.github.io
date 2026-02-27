@@ -18,7 +18,7 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 ## <i class="fas fa-graduation-cap"></i>&nbsp; Educations
 
 - *September 2021 – Present*, **Ph.D. Student** (Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/)), State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China.
-- *September 2017 - June 2021*, **B.E. in Statistics**, School of the Gifted Young, University of Science and Technology of China.
+- *September 2017 - June 2021*, **B.E.** (major in *Statistics*), School of the Gifted Young, University of Science and Technology of China.
 
 ## <i class="fas fa-file-alt"></i>&nbsp; Publications
 
@@ -53,10 +53,10 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 **Projects**
 
-- *January 2024 – October 2024*, Student Leader, USTC Eagle Innovation and Entrepreneurship Fund 2023<br>
-Exploring intelligent assistance in surgical anesthesia. Supervisor: Mingyue Cheng. [[WEBSITE](https://www.ustc.edu.cn/info/1364/22284.htm)]
-- *September 2021 – June 2024*, Backend Developer, CODIA Project Group, State Key Laboratory of Cognitive Intelligence<br>
-Responsible for backend interface (involving GraphQL, TypeScript), external service module (involving gRPC with Python), service development (involving Docker) for an intelligent online programming platform. [[WEBSITE](https://code.bdaa.pro/)]
+- *January 2024 – October 2024*, Student Leader, USTC Eagle Innovation and Entrepreneurship Fund 2023 [[WEBSITE](https://www.ustc.edu.cn/info/1364/22284.htm)]<br>
+Exploring intelligent assistance in surgical anesthesia. 
+- *September 2021 – June 2024*, Backend Developer, CODIA Project Group, State Key Laboratory of Cognitive Intelligence [[WEBSITE](https://code.bdaa.pro/)]<br>
+Responsible for backend interface (involving GraphQL, TypeScript), external service module (involving gRPC with Python), service development (involving Docker) for an intelligent online programming platform. 
 
 **USTC Teaching Assistant**
 
