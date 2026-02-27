@@ -9,18 +9,18 @@ redirect_from:
 
 I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intelligence, School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC), under the supervision of Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/).
 
-## <i class="fas fa-atom"></i>&nbsp; Research Interest
+## <i class="fas fa-atom"></i>&nbsp; Research Interest {#research-interest}
 
 - Structured Data Mining (*e.g.*, LLM/Agent-based Table Reasoning)
 - Multimodal Generation & Understanding (*e.g.*, Instruction-guided Image Editing, MLLM Hallucination Mitigation)
 - Transfer Learning (*e.g.*, Cross-domain Recommendation)
 
-## <i class="fas fa-graduation-cap"></i>&nbsp; Educations
+## <i class="fas fa-graduation-cap"></i>&nbsp; Educations {#educations}
 
 - *September 2021 – Present*, **Ph.D. Student** (Supervisor: Prof. [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/)), State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China.
 - *September 2017 - June 2021*, **B.E.** (major in *Statistics*), School of the Gifted Young, University of Science and Technology of China.
 
-## <i class="fas fa-file-alt"></i>&nbsp; Publications
+## <i class="fas fa-file-alt"></i>&nbsp; Publications {#publications}
 
 **First-author & Co-first-author Publications**
 
@@ -42,14 +42,14 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 - Zheng Zhang, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, **Qingyang Mao**. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling. In *WWW*, 2024: 3241-3252. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3589334.3645369)]
 - Zirui Hu, Zheng Zhang, Qi Liu, Haoyang Bi, Zhenya Huang, **Qingyang Mao**, Weibo Gao, Wenjun Feng. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework. In *DASFAA*, 2024: 139-155. [[PAPER](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_9)]
 
-## <i class="fas fa-building"></i>&nbsp; Internships
+## <i class="fas fa-building"></i>&nbsp; Internships {#internships}
 
 - *March 2025 – December 2025*, Research Intern, HiDream.ai. <br>
   Research on instruction-guided image editing and multimodal LLM hallucination mitigation.
 - *July 2020 - June 2021*, Research Intern, ARD Incubation Group, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
   Project collaboration on an AI-assisted paper reading application.
 
-## <i class="fas fa-briefcase"></i>&nbsp; Experiences
+## <i class="fas fa-briefcase"></i>&nbsp; Experiences {#experiences}
 
 **Projects**
 
@@ -64,7 +64,7 @@ Responsible for service development of backend interface (involving GraphQL, Typ
 - *March 2025 – June 2025*, USTC undergraduate course "Analysis and Practice of the Data" in 2025 spring semester, USTC.
 - *March 2024 – June 2024*, USTC undergraduate course "Analysis and Practice of the Data" in 2024 spring semester, USTC.
 
-## <i class="fas fa-award"></i>&nbsp; Honors & Awards
+## <i class="fas fa-award"></i>&nbsp; Honors & Awards {#honors-awards}
 
 - *December 2023*, Silver Award, China International College Students' Innovation Competition 2023. Entry: Intelligent Surgical Anesthesia.
 - *July 2023*, Gold Award, The 9th Anhui College Students' "Internet+" Competition. Entry: Intelligent Surgical Anesthesia.
