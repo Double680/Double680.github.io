@@ -7,8 +7,6 @@ main:
     url: "/#educations"
   - title: "Publications"
     url: "/#publications"
-  - title: "Internships"
-    url: "/#internships"
   - title: "Experiences"
     url: "/#experiences"
   - title: "Honors & Awards"

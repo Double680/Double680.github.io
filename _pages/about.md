@@ -44,14 +44,14 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 - Zheng Zhang, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, **Qingyang Mao**. Enhancing Fairness in Meta-learned User Modeling via Adaptive Sampling. In *WWW*, 2024: 3241-3252. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3589334.3645369)]
 - Zirui Hu, Zheng Zhang, Qi Liu, Haoyang Bi, Zhenya Huang, **Qingyang Mao**, Weibo Gao, Wenjun Feng. Mitigating Bias with Incomplete Sensitive Labels: A Confidence-Based Randomization Framework. In *DASFAA*, 2024: 139-155. [[PAPER](https://link.springer.com/chapter/10.1007/978-981-97-5562-2_9)]
 
-## <i class="fas fa-building"></i>&nbsp; Internships {#internships}
+## <i class="fas fa-briefcase"></i>&nbsp; Experiences {#experiences}
+
+**Internships**
 
 - *March 2025 – December 2025*, Research Intern, HiDream.ai. <br>
   Research on instruction-guided image editing and multimodal LLM hallucination mitigation.
 - *July 2020 - June 2021*, Research Intern, ARD Incubation Group, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
   Project collaboration on an AI-assisted paper reading application.
-
-## <i class="fas fa-briefcase"></i>&nbsp; Experiences {#experiences}
 
 **Projects**
 
@@ -60,7 +60,12 @@ Exploring intelligent assistance in surgical anesthesia.
 - *September 2021 – June 2024*, Backend Developer, CODIA Project Group [[WEBSITE](https://code.bdaa.pro/)]<br>
 Responsible for service development of backend interface (involving GraphQL, TypeScript) and external service module (involving gRPC with Python) & production deployment (involving Docker). 
 
-**USTC Teaching Assistant**
+**Academic Service**
+
+- Conference Reviewers: ICLR, SIGIR, WWW, AAAI, WSDM, DASFAA.
+- Journal Reviewers: IEEE TKDE, ACM TOIS, IEEE TMM, ACM TOMM.
+
+**Teaching Assistants**
 
 - *March 2026 – June 2026*, USTC undergraduate course "Analysis and Practice of the Data" in 2026 spring semester, USTC.
 - *March 2025 – June 2025*, USTC undergraduate course "Analysis and Practice of the Data" in 2025 spring semester, USTC.
