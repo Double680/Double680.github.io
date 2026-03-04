@@ -24,7 +24,7 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 **First-author & Co-first-author Publications**
 
-- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. VAREdit: Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [[PAPER](https://openreview.net/forum?id=elztN9Y4qw)] [[CODE](https://github.com/HiDream-ai/VAREdit)]
+- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [[PAPER](https://openreview.net/forum?id=elztN9Y4qw)] [[CODE](https://github.com/HiDream-ai/VAREdit)]
 - **Qingyang Mao**, Qi Liu, Zhi Li, Mingyue Cheng, Zheng Zhang, Rui Li. PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables. arXiv preprint arXiv:2412.04272, 2024. [[PAPER](https://arxiv.org/abs/2412.04272)] [[CODE](https://github.com/Double680/PoTable)]
 - **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *SIGIR*, 2024: 2352-2356. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)] [[CODE](https://github.com/Double680/CrossAug)]
 - **Qingyang Mao**, Zhi Li, Qi Liu, Likang Wu, Hefu Zhang, Enhong Chen. Promoting Machine Abilities of Discovering and Utilizing Knowledge in a Unified Zero-shot Learning Paradigm. *ACM TKDD*, 2024, 19(1): 1-26. [[PAPER](https://dl.acm.org/doi/full/10.1145/3700444)] [[CODE](https://github.com/Double680/CoLa)]
