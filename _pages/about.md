@@ -11,9 +11,9 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 ## <i class="fas fa-atom"></i>&nbsp; Research Interest {#research-interest}
 
+- Multimodal Understanding and Generation (*e.g.*, Instruction-guided Image Editing, MLLM Hallucination Mitigation)
 - Structured Data Mining (*e.g.*, LLM/Agent-based Table Reasoning)
-- Multimodal Generation & Understanding (*e.g.*, Instruction-guided Image Editing, MLLM Hallucination Mitigation)
-- Transfer Learning (*e.g.*, Cross-domain Recommendation)
+- Transfer Learning (*e.g.*, Knowledge-aware Zero-shot Learning, Cross-domain Recommendation)
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp; Educations {#educations}
 
