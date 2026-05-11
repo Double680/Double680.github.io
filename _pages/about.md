@@ -32,9 +32,10 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 **Co-author Publications**
 
-- Yupeng Li, Mingyue Cheng, Yucong Luo, Yitong Zhou, **Qingyang Mao**, Shijin Wang. BLADE: A Behavior-Level Data Augmentation Framework with Dual Fusion Modeling for Multi-Behavior Sequential Recommendation. In *AAAI*, 2026, accepted. [[PAPER](https://arxiv.org/abs/2512.12964)]
+- DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting. *IEEE TPAMI*, 2026, accepted. [[PAPER](https://arxiv.org/abs/2410.22981)]
+- Yupeng Li, Mingyue Cheng, Yucong Luo, Yitong Zhou, **Qingyang Mao**, Shijin Wang. BLADE: A Behavior-Level Data Augmentation Framework with Dual Fusion Modeling for Multi-Behavior Sequential Recommendation. In *AAAI*, 2026, 40(18): 15189-15197. [[PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/38543)]
 - Chuang Jiang, Mingyue Cheng, Xiaoyu Tao, **Qingyang Mao**, Jie Ouyang, Qi Liu. TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning. In *WSDM*, 2026: 260–270. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3773966.3777932)]
-- Yan Zhuang, Chenye Ke, Zirui Liu, Qi Liu, Yuting Ning, Zhenya Huang, Weizhe Huang, **Qingyang Mao**, Shijin Wang. A Closed-Form Solution for Fast and Reliable Adaptive Testing. In *NeurIPS*, 2025, accepted. [[PAPER](https://neurips.cc/virtual/2025/loc/san-diego/poster/133970)]
+- Yan Zhuang, Chenye Ke, Zirui Liu, Qi Liu, Yuting Ning, Zhenya Huang, Weizhe Huang, **Qingyang Mao**, Shijin Wang. A Closed-Form Solution for Fast and Reliable Adaptive Testing. In *NeurIPS*, 2025, 38: 98144--98167. [[PAPER](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8d186577ca4f2d8ae43f26ac679d50ff-Abstract-Conference.html)]
 - Zheng Zhang, Qi Liu, Zirui Hu, Yi Zhan, Zhenya Huang, Weibo Gao, **Qingyang Mao**, Enhong Chen. A Hybrid Adaptive Sampling Strategy for Fair and Accurate Meta-learned User Modeling. *ACM TOIS*, 2025, 44(1): 1-39. [[PAPER](https://dl.acm.org/doi/full/10.1145/3769296)]
 - Jiahao Wang, Mingyue Cheng, **Qingyang Mao**, Yitong Zhou, Daoyu Wang, Qi Liu, Feiyang Xu, Xin Li. TableTime: Reformulating Time Series Classification as Training-Free Table Understanding with Large Language Models. In *CIKM*, 2025: 3009–3019. [[PAPER](https://dl.acm.org/doi/10.1145/3746252.3761056)]
 - Mingfan Pan, **Qingyang Mao**, Xu An, Jianhui Ma, Gang Zhou, Mingyue Cheng, Enhong Chen. Tag-augmented Dual-target Cross-domain Recommendation. In *RecSys*, 2025: 451-460. [[PAPER](https://dl.acm.org/doi/full/10.1145/3705328.3748067)]
@@ -55,6 +56,8 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 **Projects**
 
+- *April 2026 - Today*, Own Project, FastDiagram [[CODE]](https://github.com/Double680/FastDiagram)<br>
+- *March 2026 - April 2026*, Collaborator, TabClaw [[WEBSITE](https://tabclaw.bdaa.pro/)]
 - *January 2024 – October 2024*, Student Leader, USTC Eagle Innovation and Entrepreneurship Fund 2023 [[WEBSITE](https://www.ustc.edu.cn/info/1364/22284.htm)]<br>
 Exploring intelligent assistance in surgical anesthesia. 
 - *September 2021 – June 2024*, Backend Developer, CODIA Project Group [[WEBSITE](https://code.bdaa.pro/)]<br>
