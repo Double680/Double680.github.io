@@ -24,9 +24,10 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 **First-author & Co-first-author Publications**
 
+- **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. Beyond the Logits: Mitigating Hallucinations in Multimodal Large Language Models with Layer-Adaptive Visual Guidance. In *ACM MM*, 2026, accepted. 
 - **Qingyang Mao**, Qi Cai, Yehao Li, Yingwei Pan, Mingyue Cheng, Ting Yao, Qi Liu, Tao Mei. Visual Autoregressive Modeling for Instruction-Guided Image Editing. In *ICLR*, 2026, accepted. [[PAPER](https://openreview.net/forum?id=elztN9Y4qw)] [[CODE](https://github.com/HiDream-ai/VAREdit)]
-- **Qingyang Mao**, Qi Liu, Zhi Li, Mingyue Cheng, Zheng Zhang, Rui Li. PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables. *IEEE TKDE*, 2026, accepted. [[PAPER](https://arxiv.org/abs/2412.04272)] [[CODE](https://github.com/Double680/PoTable)]
-- **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *SIGIR*, 2024: 2352-2356. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)] [[CODE](https://github.com/Double680/CrossAug)]
+- **Qingyang Mao**, Qi Liu, Zhi Li, Mingyue Cheng, Zheng Zhang, Rui Li. PoTable: Towards Systematic Thinking via Plan-then-Execute Stage Reasoning on Tables. *IEEE TKDE*, 2026, 38(7): 4615-4626. [[PAPER](https://ieeexplore.ieee.org/abstract/document/11481790)] [[CODE](https://github.com/Double680/PoTable)]
+- **Qingyang Mao**, Qi Liu, Zhi Li, Likang Wu, Bing Lv, Zheng Zhang. Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation. In *ACM SIGIR*, 2024: 2352-2356. [[PAPER](https://dl.acm.org/doi/abs/10.1145/3626772.3657902)] [[CODE](https://github.com/Double680/CrossAug)]
 - **Qingyang Mao**, Zhi Li, Qi Liu, Likang Wu, Hefu Zhang, Enhong Chen. Promoting Machine Abilities of Discovering and Utilizing Knowledge in a Unified Zero-shot Learning Paradigm. *ACM TKDD*, 2024, 19(1): 1-26. [[PAPER](https://dl.acm.org/doi/full/10.1145/3700444)] [[CODE](https://github.com/Double680/CoLa)]
 - Mingyue Cheng, **Qingyang Mao** *(co-first author)*, Qi Liu, Yitong Zhou, Yupeng Li, Jiahao Wang, Jiaying Lin, Jiawei Cao, Enhong Chen. A Survey on Table Mining with Large Language Models: Challenges, Advancements and Prospects. TechRxiv preprints, 2025. [[PAPER](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174352282.22844759)] [[CODE](https://github.com/USTCAGI/Awesome-LLM-Table-Mining)]
 
@@ -49,14 +50,15 @@ I am currently a Ph.D. student at the State Key Laboratory of Cognitive Intellig
 
 **Internships**
 
-- *March 2025 – December 2025*, Research Intern, HiDream.ai. <br>
+- *June 2026 - Oct 2026 (Expected)*, Tencent. <br>
+  Research and project on data agent in Tencent Cloud.
+- *March 2025 – December 2025*, HiDream.ai. <br>
   Research on instruction-guided image editing and multimodal LLM hallucination mitigation.
 - *July 2020 - June 2021*, Research Intern, ARD Incubation Group, Microsoft Research Asia (USTC-MSRA Innovative Talents' Program). <br>
   Project collaboration on an AI-assisted paper reading application.
 
 **Projects**
 
-- *April 2026 - Today*, Own Project, FastDiagram [[CODE]](https://github.com/Double680/FastDiagram)<br>
 - *March 2026 - April 2026*, Collaborator, TabClaw [[WEBSITE](https://tabclaw.bdaa.pro/)]
 - *January 2024 – October 2024*, Student Leader, USTC Eagle Innovation and Entrepreneurship Fund 2023 [[WEBSITE](https://www.ustc.edu.cn/info/1364/22284.htm)]<br>
 Exploring intelligent assistance in surgical anesthesia. 
