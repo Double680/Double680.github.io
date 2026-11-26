@@ -68,7 +68,7 @@ Responsible for service development of backend interface (involving GraphQL, Typ
 **Academic Service**
 
 - Conference Reviewers: ICLR, SIGIR, WWW, AAAI, WSDM, DASFAA.
-- Journal Reviewers: IEEE TKDE, ACM TOIS, IEEE TMM, ACM TOMM.
+- Journal Reviewers: IEEE TKDE, IEEE TPAMI, ACM TOIS, IEEE TMM, ACM TOMM.
 
 **Teaching Assistants**
 
